@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-attestify_kernel = { git = "ssh://git@github.com/attestify/kernel-oss.git", tag = "v0.1.0" }
+attestify_kernel = { git = "ssh://git@github.com/attestify/kernel-oss.git", tag = "0.2.0" }
 
 [dev-dependencies]
 attestify_test_framework = { git = "https://github.com/attestify/test-framework-oss.git", tag = "v0.1.1" }

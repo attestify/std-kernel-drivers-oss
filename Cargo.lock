@@ -5,7 +5,7 @@ version = 4
 [[package]]
 name = "attestify_kernel"
 version = "0.1.0"
-source = "git+ssh://git@github.com/attestify/kernel-oss.git?tag=v0.1.0#309b968358daba8a638867938421e16dd05c7477"
+source = "git+ssh://git@github.com/attestify/kernel-oss.git?tag=0.2.0#3cb8921017a11cd313520f21d08e788df9d1d729"
 dependencies = [
  "url",
 ]
